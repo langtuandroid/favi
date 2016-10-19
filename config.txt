@@ -1,1 +1,1 @@
-{"appName":"Favi Bigo","sources":[{"id":"videohotten","name":"videohotten","desc":"Video hot"},{"id":"videongo","name":"videongo","desc":"BigoLive Thai"}]}
+{"appName":"Favi Bigo","sources":[{"id":"videohotten","name":"videohotten","desc":"Video hot"},{"id":"videongo","name":"videongo","desc":"BigoLive Thai"},{"id":"Phở team","name":"photeam","desc":"BigoLive Thai"}]}
